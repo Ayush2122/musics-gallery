@@ -1,0 +1,33 @@
+p{
+    color: red;
+    font-size: 150%;
+
+}
+.guitar{
+    
+   display: block;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.guitar img{
+    margin: 2%;
+}
+.acoustic{
+    
+    display: block;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+ .acoustic img{
+     margin: 4%;
+ }
+ .guitar1{
+    text-align: center;
+ }
+ .guitar1 h3{
+    color: red;
+ }
